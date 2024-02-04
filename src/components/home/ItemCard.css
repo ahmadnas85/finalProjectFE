@@ -1,0 +1,33 @@
+
+.itemCard {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .itemImg {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .itemName {
+    font-size: 1.2rem;
+    margin-top: 8px;
+  }
+  
+  /* .itemInfo {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+  } */
+  
+  .itemInStock {
+    color: green;
+  }
+  
+  .itemPrice {
+    color: #007bff;
+  }
+  

@@ -1,0 +1,27 @@
+.navBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white; 
+  }
+  
+  /* .navLink {
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    background-color: #c293be; 
+    margin-left: 15px; 
+    text-decoration: none;
+    color: white; 
+  }
+
+  .logoutButton {
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    background-color: #c293be; 
+    margin-left: 15px; 
+    text-decoration: none;
+    color: white; 
+  } */
